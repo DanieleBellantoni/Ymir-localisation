@@ -1,0 +1,33 @@
+#bdg_all#1
+Tutti gli edifici
+
+#bdg_annex_dscr#1
+Gli annessi sono edifici che appartengono ad un altro e forniscono addizionali fonti produttive o capacità distribuzionali.
+
+#bdg_annex_n#1
+annesso
+
+#bdg_battlem_dscr#1
+I parapetti possono essere costruiti soltanto su piattaforme. Forniscono un bonus di combattimento alle unità dispiegate sullea piattaforma durante le battaglie.
+
+#bdg_battlem_n#1
+parapetti
+
+#bdg_deco_dscr#1
+Elementi puramente cosmetici per migliorare l'estetica della tua città.
+
+#bdg_deco_n#1
+decorazioni
+
+#bdg_gates_dscr#1
+I cancelli bloccano le truppe ostili durante le battaglie. Devono essere adiacenti ad una piattaforma in modalità 'ponte'.
+
+#bdg_gates_n#1
+cancello
+
+#bdg_hous_dscr#1
+Allogiano la popolazione, migliorando la loro salute e qualità della vita.
+
+#bdg_hous_n#1
+abitazione
+
