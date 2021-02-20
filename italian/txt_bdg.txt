@@ -31,3 +31,195 @@ Allogiano la popolazione, migliorando la loro salute e qualità della vita.
 #bdg_hous_n#1
 abitazione
 
+#bdg_ind_dscr#1
+Produce beni da risorse esistenti.
+
+#bdg_ind_n#1
+edificio industriale
+
+#bdg_merch_dscr#1
+I distributori prendono risorse da qualunque edificio produttivo o magazzino e le rendono disponibili alla popolazione. Possono distribuire grandi quantità di risorse ma i mercanti mantengono una percentuale delle vendite per sè, diminunedo i ricavi dei produttori nel processo.
+
+#bdg_merch_n#1
+distribuzione
+
+#bdg_pltf_dscr#1
+Le piattaforme sono dei rialzi artificiali su cui puoi costruire. Le strutture difensive quali torri e parapetti possono essere costruiti soltanto su piattaforme. La loro costruzione è lenta e costosa.
+
+#bdg_pltf_n#1
+piattaforme
+
+#bdg_prod_dscr#1
+Sfrutta tessere del terreno per produre risorse grezze.
+
+#bdg_prod_n#1
+edificio produttivo
+
+#bdg_roads_dscr#1
+Migliora il movimento delle unità su questa casella e fornisce bonus agli edifici connessi. [Attualemente solo decorative]
+
+#bdg_roads_n#1
+strade
+
+#bdg_srv_dscr#1
+Fornisce un servizio (una risorsa non materiale che non può essere immagazzinata).
+
+#bdg_srv_n#1
+servizio
+
+#bdg_stairs_dscr#1
+Permette ai maiali di accedere a caselle con differente altezza. Posizionala vicino a piattaforme o alture per permettere l'accesso. Premi la barra spaziatrice per cambiare la direzione.
+
+#bdg_stairs_n#1
+scale
+
+#bdg_stor_dscr#1
+Immagazzina risorse.
+
+#bdg_stor_n#1
+magazzino
+
+#bdg_towers_dscr#1
+Le torri difensive impiegano soldati indipendenti dalla guarnigione e armate. Possono essere posizionate soltanto su piattaforme. Forniscono fuoco di supporto durante le battaglie.
+
+#bdg_towers_n#1
+torri difensive
+
+#bdg_walls_dscr#1
+Strutture difensive che impediscono a tutte le unità di passare.
+
+#bdg_walls_n#1
+muri
+
+#txt_academ_n#1
+Accademia
+
+#txt_acedem_dscr#1
+Saggi e acculturati maiali che studiano le arti e le scienze, incrementando l'educazione e la cultura e contribuendo ai progetti di ricerca.
+
+#txt_agora_dscr#1
+Uno speciale edificio per la capitale collegato alla politica 'Democrazia' che produce Potere Statale. Una larga piazza dove i Cittadini si riuniscono per votare e discutere direttamente del governo della Città.
+
+#txt_agora_n#1
+Agora
+
+#txt_archtct_dscr#1
+Fornisce il servizio "Progetti", necessari per importanti monumenti.
+
+#txt_archtct_n#1
+Architetto
+
+#txt_bakery_dscr#1
+Fa il pane dalla farina.
+
+#txt_bakery_n#1
+Fornaio
+
+#txt_baths_dscr#1
+Un luogo di ritrovo sociale e di rilassamento che migliora la salute.
+
+#txt_baths_n#1
+Bagni pubblici
+
+#txt_batlm1_dscr#1
+I rozzi parapetti di legno forniscono una basilare copertura dal fuoco nemico alle truppe dispiegate sulle piattaforme durante le battaglie.
+
+#txt_batlm1_n#1
+Parapetti di legno
+
+#txt_batlm2_dscr#1
+I parapetti di pietra forniscono copertura dal fuoco nemico alle truppe dispiegate sulla piattaforma durante le battaglie.
+
+#txt_batlm2_n#1
+Parapetti di pietra
+
+#txt_batlm3_dscr#1
+Parapetti rinforzati fatti di solidi blocchi di pietra con feritoie che permettono un'eccellente copertura dal fuoco nemico per le unità dispiegate sulla piattaforma durante le battaglie.
+
+#txt_batlm3_n#1
+Parapetto di pietra con feritoie
+
+#txt_batlm4_dscr#1
+Protezione eccellente ma più debole dei parapetti di pietra.
+
+#txt_batlm4_n#1
+Staccionata
+
+#txt_brewery_dscr#1
+Produce birra dall'orzo. La birra è una risorsa distribuibile che soddisfa il bisogno di alcolici della popolazione.
+
+#txt_brewery_n#1
+Birreria
+
+#txt_brickwk_dscr#1
+Produce mattoni, un comune materiale da costruzioni.
+
+#txt_brickwk_n#1
+Mattonificio
+
+#txt_builder_dscr#1
+Molti edifici possono essere costruiti soltanto da costruttori professionisti.
+
+#txt_builder_n#1
+Costruttori
+
+#txt_butcher_dscr#1
+Macella bestiame per produrre carne fresca.
+
+#txt_butcher_n#1
+Macellaio
+
+#txt_carpetmkr_dscr#1
+Produce tappeti, una risorsa distribuibile che soddisfa il bisogno di Mobilio della popolazione.
+
+#txt_carpetmkr_n#1
+Fabbricante di tappeti
+
+#txt_cattle_dscr#1
+L'allevamento di bestiame ti permette di creare pascoli per la produzione di bestiame.
+
+#txt_cattle_n#1
+Allevamento di bestiame
+
+#txt_charcl_dscr#1
+Carbonizza il legno in carbonella.
+
+#txt_charcl_n#1
+Carbonaio
+
+#txt_cider_dscr#1
+Produce sidro dalle mele. Il sidro è una risorsa distribuibile che soddisfa il bisogno di alcolici della popolazione.
+
+#txt_cider_n#1
+Sidreria
+
+#txt_cityhall_dscr#1
+Il centro amministrativo regionale necessario per una Città.
+
+#txt_cityhall_n#1
+Municipio
+
+#txt_claycamp_dscr#1
+Può estrarre l'argilla dalle caselle di argilla. Deve essere posizionata a portata di un deposito di argilla.
+
+#txt_claycamp_n#1
+Miniera di argilla
+
+#txt_claypit_dscr#1
+Posizionala direttamente sulle caselle di argilla. Aumenta l'estrazione di argilla di queste caselle.
+
+#txt_claypit_n#1
+Cava di argilla
+
+#txt_clothmk_dscr#1
+Produce abiti dai tessuti. Gli abiti sono una risorsa distribuibile che soddisfa il bisogno della popolazione di vestiti.
+
+#txt_clothmk_n#1
+Sarto
+
+#txt_comunhall_dscr#1
+Il centro amministrativo regionale richiesto per un Villaggio. Una grande casa comunale dove gli affari del villaggio vengono discussi e gestiti.
+
+#txt_comunhall_n#1
+Sala comunale
+
